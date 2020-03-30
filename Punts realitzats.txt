@@ -1,0 +1,26 @@
+Examen Jaume Tarazona Castelló
+
+Els punts realitzats han set:
+-Crear un Terrain(amb vegetació i textura)
+-Entrades input: L(treure vida), Control(crouch),R(restart)
+-3 triggers: 
+  Zona de mort(la placa vermella)
+  Item(son boles)
+  Porta(Quan agafes una sola bola, i t'apropes a la  porta, s'obra)
+-Escenari iluminat amb tots els tipus de llum i que cambie el sol durant el temps.
+-HUD
+  Items
+  Vida Player
+  Temps transcorregut
+-Animaciones de HUD
+  Animació 1(surt de dalt al començament)
+   Items i vida
+  Animació 2 (surt de baix al començament)
+   Temps
+-Nous estas en el anim bluprint 
+   Mort
+   Caminar agachado
+-Crear y lanzar un sonido(Quan agafes les voles amb el pitch aleator i que quan es llançi no sempre sigui el mateix )
+-Crear funcinalitat Restart Game
+
+
